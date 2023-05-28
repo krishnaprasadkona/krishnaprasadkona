@@ -1,7 +1,5 @@
-[![MasterHead](https://miro.medium.com/max/3840/1*g__jiesLRIfCRefVG69Pfw.gif)]
 <h1 align="center">Hi 👋, I'm krishna prasad</h1>
 <h3 align="center">I'm passionate about Data science</h3>
-<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaprasadkona&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaprasadkona" /> </p>
 
