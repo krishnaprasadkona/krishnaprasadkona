@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm krishna prasad</h1>
-<h3 align="center">I'm passionate about Data science</h3>
+<h3 align="center"> how are you, hope you good! 😊 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaprasadkona&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaprasadkona" /> </p>
 
